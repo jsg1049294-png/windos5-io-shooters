@@ -1,0 +1,19 @@
+{
+  "repo": "windos5-io-shooters",
+  "category": "shooters",
+  "count": 12,
+  "games": [
+    {"id": "krunker-io", "name": "Krunker.io", "sub": "FPS", "type": "embed", "url": "https://krunker.io", "preview": "https://www.google.com/s2/favicons?domain=krunker.io&sz=128", "category": "shooters"},
+    {"id": "shell-shockers", "name": "Shell Shockers", "sub": "Egg FPS", "type": "embed", "url": "https://shellshock.io", "preview": "https://www.google.com/s2/favicons?domain=shellshock.io&sz=128", "category": "shooters"},
+    {"id": "ev-io", "name": "Ev.io", "sub": "Sci-fi FPS", "type": "embed", "url": "https://ev.io", "preview": "https://www.google.com/s2/favicons?domain=ev.io&sz=128", "category": "shooters"},
+    {"id": "venge-io", "name": "Venge.io", "sub": "FPS", "type": "embed", "url": "https://venge.io", "preview": "https://www.google.com/s2/favicons?domain=venge.io&sz=128", "category": "shooters"},
+    {"id": "1v1-lol", "name": "1v1.LOL", "sub": "Build fight", "type": "embed", "url": "https://1v1.lol", "preview": "https://www.google.com/s2/favicons?domain=1v1.lol&sz=128", "category": "shooters"},
+    {"id": "smash-karts", "name": "Smash Karts", "sub": "Kart combat", "type": "embed", "url": "https://smashkarts.io", "preview": "https://www.google.com/s2/favicons?domain=smashkarts.io&sz=128", "category": "shooters"},
+    {"id": "battledudes-io", "name": "BattleDudes.io", "sub": "FPS", "type": "embed", "url": "https://battledudes.io", "preview": "https://www.google.com/s2/favicons?domain=battledudes.io&sz=128", "category": "shooters"},
+    {"id": "miniroyale", "name": "Mini Royale", "sub": "FPS BR", "type": "embed", "url": "https://miniroyale.io", "preview": "https://www.google.com/s2/favicons?domain=miniroyale.io&sz=128", "category": "shooters"},
+    {"id": "pixel-warfare", "name": "Pixel Warfare", "sub": "Pixel FPS", "type": "embed", "url": "https://pixelwarfare.io", "preview": "https://www.google.com/s2/favicons?domain=pixelwarfare.io&sz=128", "category": "shooters"},
+    {"id": "gunbox", "name": "GunBox", "sub": "Shooter", "type": "embed", "url": "https://gunbox.io", "preview": "https://www.google.com/s2/favicons?domain=gunbox.io&sz=128", "category": "shooters"},
+    {"id": "lolshot", "name": "LOLShot.io", "sub": "FPS", "type": "embed", "url": "https://lolshot.io", "preview": "https://www.google.com/s2/favicons?domain=lolshot.io&sz=128", "category": "shooters"},
+    {"id": "raftel-io", "name": "Raftel.io", "sub": "Pirate FPS", "type": "embed", "url": "https://raftel.io", "preview": "https://www.google.com/s2/favicons?domain=raftel.io&sz=128", "category": "shooters"}
+  ]
+}
